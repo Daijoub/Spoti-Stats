@@ -7,6 +7,8 @@ implement authentication
 - Designed the website on [Figma](https://www.figma.com/file/n5gCCILxZDxuInaeYKUS5U/Spotistats?node-id=0%3A1).
 - Your spotify profile's top artists and tracks with charts and playlist creator.
   
+# Deployment Demo
+![](https://github.com/Rishika-041/Spoti-Stats/blob/master/Screen%20Recording%202022-07-11%20at%208.55.11%20PM.mov)
 
 ## Built with
 
