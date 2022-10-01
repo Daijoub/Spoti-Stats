@@ -8,7 +8,11 @@ implement authentication
 - Your spotify profile's top artists and tracks with charts and playlist creator.
   
 # Deployment Demo
- Screen Recording 2022-07-11 at 8.55.11 PM
+ 
+
+https://user-images.githubusercontent.com/75982871/193413614-5841b0db-451c-4ba5-aed1-21de21279c40.mov
+
+
 
 ## Built with
 
