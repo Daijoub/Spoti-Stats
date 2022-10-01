@@ -4,7 +4,7 @@
 different periods.
 - The website uses Spotify APIs to access user’s data, React.js as frontend to visualize spotify stats, Nodejs to
 implement authentication
-- Designed the website on Figma.
+- Designed the website on [Figma](https://www.figma.com/file/n5gCCILxZDxuInaeYKUS5U/Spotistats?node-id=0%3A1).
 - Your spotify profile's top artists and tracks with charts and playlist creator.
   
 
