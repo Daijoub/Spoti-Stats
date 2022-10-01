@@ -8,7 +8,7 @@ implement authentication
 - Your spotify profile's top artists and tracks with charts and playlist creator.
   
 # Deployment Demo
-![](https://github.com/Rishika-041/Spoti-Stats/blob/master/Screen%20Recording%202022-07-11%20at%208.55.11%20PM.mov)
+ Screen Recording 2022-07-11 at 8.55.11 PM
 
 ## Built with
 
